@@ -4,7 +4,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 -- =============================================
--- Author:		Fco. Javier Tello
+-- Author:	Fco. Javier Tello
 -- Create date: 2019.11.05
 -- =============================================
 
